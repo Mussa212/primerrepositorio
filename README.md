@@ -5,12 +5,12 @@
 ## Práctico B1
 * **Sistemas Operativos**
 * **Herramientas de desarrollo**
-	*Git
-	*Git Avanzado
+	* Git
+	* Git Avanzado
 
 ## Información de Contacto
 
-    |Nombre|  |Mail|
-    |------|  |-----|
+    | Nombre |  | Mail |
+    | ------ |  | ----- |
 
-    |**Muscellini**, Santiago Tomás|  |2100492@ucc.edu.ar|
+    | **Muscellini**, Santiago Tomás |  | 2100492@ucc.edu.ar |
